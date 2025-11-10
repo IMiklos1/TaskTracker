@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.9">
+  <diagram name="1 oldal" id="dh65RJe7LnnzkJfkaFW5">
+    <mxGraphModel dx="2208" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-2" target="Ln0mD9PfD4HdccNXpftH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-2" target="Ln0mD9PfD4HdccNXpftH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-2" target="Ln0mD9PfD4HdccNXpftH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-2" value="Feladatok listázása" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-3" target="Ln0mD9PfD4HdccNXpftH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-3" value="Feladatok hozzáadása" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-4" target="Ln0mD9PfD4HdccNXpftH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-4" target="Ln0mD9PfD4HdccNXpftH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-4" target="Ln0mD9PfD4HdccNXpftH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-4" value="Feladatok szerkesztése" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-7" target="Ln0mD9PfD4HdccNXpftH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-7" target="Ln0mD9PfD4HdccNXpftH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-7" target="Ln0mD9PfD4HdccNXpftH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-7" value="Feladatok törlése" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-11" target="Ln0mD9PfD4HdccNXpftH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-11" value="Könnyen átlátható dizájn" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-12" target="Ln0mD9PfD4HdccNXpftH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-12" value="Reszponzív felület" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-13" target="Ln0mD9PfD4HdccNXpftH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-13" value="Task entity tárolása" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-21" target="Ln0mD9PfD4HdccNXpftH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-21" value="Egyszerű lista + űrlap nézet" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ln0mD9PfD4HdccNXpftH-22" target="Ln0mD9PfD4HdccNXpftH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-22" value="Adatbázis" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln0mD9PfD4HdccNXpftH-27" value="&lt;h1&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Koncepc&lt;/font&gt;ió&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Egyszerűen&lt;br/&gt;használható, minimalista dizájnú Task Tracker webalkalmazás&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="210" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
