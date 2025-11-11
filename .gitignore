@@ -33,3 +33,4 @@ coverage/
 .cache/
 .temp/
 *.bak
+__pycache__/
