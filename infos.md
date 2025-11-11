@@ -1,6 +1,28 @@
 # WebApp ToDO
 
-## What do I have to do?
+
+
+
+## Activate Backend:
+
+In Terminal inside : \TaskTracker\Backend\
+```powershell
+.\.vevn\Scripts\activate
+uvicorn main:app --reload --port 8000
+```
+
+
+## Activate Frontend:
+In Terminal inside : \TaskTracker\Frontend\dist
+
+```powershell
+python -m http.server 5173
+```
+
+---
+---
+
+# What do I have to do?
 
     - make a functional backend in "fastAPI"
     - make a functional frontend int "react"
@@ -9,6 +31,13 @@
     - Make a somewhat readable filesystem 
     - database????? - SPL Light ???? MySQL ?:??? --Jelszó: CsokiKeksz
     - use tailwind
+
+
+
+#### DockerFile:
+    - Builds React frontend
+    - Copies the compiled static assets int FastApi app
+    - Runs FastApi with venv
 
 ### Backend:
 How to start running the main.py:
@@ -27,33 +56,3 @@ To run fastAPI with uvicorn:
 uvicorn main:app --reload
 ```
 
-
-
-
-
-### Activate Backend:
-
-in Terminal inside backend folder
-```powershell
-.\.vevn\Scripts\Activate.ps1
-uvicorn main:app --reload --port 8000
-```
-
-
-### Activate Frontend:
- First activate venv in backend folder then
-in Terminal inside frontend folder write
-in Terminal inside frontend folder write
-
-```powershell
-.\.vevn\Scripts\Activate.ps1
-npm install
-npm run dev
-```
-
-
-#### DockerFile:
-    - Builds React frontend
-    - Copies the compiled static assets int FastApi app
-    - Runs FastApi with venv
-## Binding everything together:
