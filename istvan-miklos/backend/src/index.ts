@@ -3,11 +3,13 @@ import cors from "cors";
 import { TaskController } from "./controllers/task.controller";
 
 const app = express();
-app.use(cors({
-  origin: "http://localhost:3000", // your frontend dev URL
-}));
+app.use(cors(
+//   {
+//   origin: "http://localhost:3000", // your frontend dev URL
+// }
+));
 app.use(express.json());
-const port = 5000;
+const port = 5050;
 
 app.get('/', (req, res) => {
   res.send('Hello from TypeScript Backend!');

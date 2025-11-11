@@ -29,7 +29,7 @@ export class TaskController {
         if (!title) return res.status(400).json({ error: "Title is required" });
 
         const task = new Task(title, description, new Date(dueDate));
-
+        console.log(task);
         db.prepare(`
         INSERT INTO tasks (id, title, description, completed, due_date, created_at, updated_at)
         VALUES (?, ?, ?, ?, ?, ?, ?)
@@ -38,7 +38,7 @@ export class TaskController {
             task.title,
             task.description ?? null,
             task.completed ? 1 : 0,
-            task.dueDate ? task.dueDate.toISOString() : null,
+            task.dueDate ? task.dueDate.toISOString() : undefined,
             task.createdAt.toISOString(),
             task.updatedAt.toISOString()
         );
